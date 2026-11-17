@@ -1,6 +1,6 @@
 <!-- Reemplaza TU_USUARIO por tu nombre de usuario de GitHub en todo el archivo -->
 
-![Banner](https://raw.githubusercontent.com/LinaSalinas7/LinaSalinas7/main/banner.jpg)
+![Banner](https://raw.githubusercontent.com/LinaSalinas7/LinaSalinas7/main/banner.png)
 
 ![Visitas](https://komarev.com/ghpvc/?username=LinaSalinas7&label=Hola%20Visitante&color=blue)
 <!-- Opcional: badge de WakaTime (crea cuenta en wakatime.com y copia tu badge desde Settings → Embeddables) -->
