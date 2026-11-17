@@ -7,8 +7,9 @@
 
 ## ¡Hola, bienvenid@!
 
-Soy **Lina Salinas**, Soy Ingeniera de sistemas de Colombia con 2 años de experiencia en Analisis y desarrollo de software.
-Me apasiona aprender nuevas herramientas y entender el funcionamiento de las cosas. Conoce más en [tusitio.com](https://linasalinas7.github.io).
+Soy [**Lina Salinas**](https://linasalinas7.github.io), Soy Ingeniera de sistemas de Colombia con 2 años de experiencia en Analisis y desarrollo de software.
+
+Me apasiona aprender nuevas herramientas y entender el funcionamiento de las cosas.
 
 ## 🛠️ Lenguajes y herramientas
 
@@ -39,5 +40,5 @@ Me apasiona aprender nuevas herramientas y entender el funcionamiento de las cos
 ## 📫 Contáctame
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_LINKEDIN/)
-[![Hotmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](linasalinasd7@hotmail.com)
-[![Sitio web](https://img.shields.io/badge/Sitio_web-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://linasalinas7.github.io))]
+[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:linasalinasd7@hotmail.com)
+[![Sitio web](https://img.shields.io/badge/Sitio_web-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://linasalinas7.github.io)
