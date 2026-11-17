@@ -7,7 +7,7 @@
 
 ## ¡Hola, bienvenid@!
 
-Soy [**Lina Salinas**](https://linasalinas7.github.io), Soy Ingeniera de sistemas de Colombia con 2 años de experiencia en Analisis y desarrollo de software.
+Soy [**Lina Salinas**](https://linasalinas7.github.io), Ingeniera de sistemas de Colombia con 2 años de experiencia en Analisis y desarrollo de software.
 
 Me apasiona aprender nuevas herramientas y entender el funcionamiento de las cosas.
 
