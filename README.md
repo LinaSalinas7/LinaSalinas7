@@ -11,7 +11,7 @@ Soy [**Lina Salinas**](https://linasalinas7.github.io), Ingeniera de sistemas de
 
 Me apasiona aprender nuevas herramientas y entender el funcionamiento de las cosas.
 
-## 🛠️ Lenguajes y herramientas
+## Lenguajes y herramientas
 
 <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=LinaSalinas7&layout=compact" alt="Top lenguajes" />
 
@@ -33,11 +33,11 @@ Me apasiona aprender nuevas herramientas y entender el funcionamiento de las cos
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=LinaSalinas7&count_private=true&show_icons=true" alt="Estadísticas" />
 
-## 📫 Contáctame
+## Contáctame
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_LINKEDIN/)
 [![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:linasalinasd7@hotmail.com)
