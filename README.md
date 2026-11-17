@@ -1,11 +1,13 @@
 <!-- Reemplaza TU_USUARIO por tu nombre de usuario de GitHub en todo el archivo -->
 
-![Banner](https://raw.githubusercontent.com/LinaSalinas7/LinaSalinas7/main/banner.png)
+![Banner](https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/main/banner.jpg)
 
+![Visitas](https://komarev.com/ghpvc/?username=TU_USUARIO&label=Hola%20Visitante&color=blue)
+<!-- Opcional: badge de WakaTime (crea cuenta en wakatime.com y copia tu badge desde Settings → Embeddables) -->
 
-## ¡Hola, bienvenid!
+## 👋 ¡Hola, bienvenid@!
 
-Soy **Lina Salinas**, [Ingeniera de Sistemas] de Colombia 🇨🇴 con 2 años de experiencia en [Analisis y desarrollo de Software].
+Soy **Tu Nombre**, [tu rol] de Colombia 🇨🇴 con X años de experiencia en [tu área].
 Me apasiona [tus intereses]. Conoce más en [tusitio.com](https://tusitio.com).
 
 - 🔭 Actualmente estoy construyendo: **[proyecto]**
@@ -26,7 +28,7 @@ Me apasiona [tus intereses]. Conoce más en [tusitio.com](https://tusitio.com).
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-
+[![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 **Diseño y producto**
 
@@ -34,10 +36,10 @@ Me apasiona [tus intereses]. Conoce más en [tusitio.com](https://tusitio.com).
 
 ## 📊 Estadísticas de GitHub
 
-<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=LinaSalinas7&count_private=true&show_icons=true" alt="Estadísticas" />
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=TU_USUARIO&count_private=true&show_icons=true" alt="Estadísticas" />
 
 ## 📫 Contáctame
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-salinas-delgado/)
-[![Hotmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](linasalinasd7@hotmail.com)
-[![Sitio web](https://img.shields.io/badge/Sitio_web-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://linasalinas7.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_LINKEDIN/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com)
+[![Sitio web](https://img.shields.io/badge/Sitio_web-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tusitio.com)
